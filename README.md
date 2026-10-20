@@ -6,6 +6,8 @@ SQL- and Tableau-based analysis of approximately **6.17 million bike-share rides
 
 ![Cyclistic dashboard](images/cyclistic_dashboard.png)
 
+**Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/Cyclisticbikeshareanalysis_17924809641850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Business problem
 
 Cyclistic is a fictional bike-share company used in the Google Data Analytics capstone case study. The business goal is to increase the number of annual members.
@@ -96,6 +98,8 @@ The Tableau dashboard summarizes the five main analytical views:
 - rider mix at high-traffic stations.
 
 A static version is shown at the top of this README and stored in [images/cyclistic_dashboard.png](images/cyclistic_dashboard.png).
+
+**Interactive version:** [Open the dashboard on Tableau Public](https://public.tableau.com/views/Cyclisticbikeshareanalysis_17924809641850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 The aggregated CSV files used to build the dashboard are available in [output/](output/).
 
