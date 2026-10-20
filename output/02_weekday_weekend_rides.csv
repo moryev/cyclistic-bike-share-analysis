@@ -1,0 +1,5 @@
+day_type,member_casual,avg_rides_per_day
+Weekend,member,8913
+Weekday,member,11708
+Weekday,casual,5257
+Weekend,casual,7854
